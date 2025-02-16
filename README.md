@@ -39,7 +39,7 @@ The project follows a layered design:
 ### UML Diagram
 Below is an illustrative UML diagram for the model:
   
-![UML Diagram](Graph1.0.jpg)
+![UML Diagram](UMLs/Graph1.0.jpg)
   
 *Note: Replace `uml_diagram.png` with your generated UML diagram image file.*
 
